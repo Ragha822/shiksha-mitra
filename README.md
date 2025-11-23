@@ -308,7 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Developer**: Raghavendra  
+**Developer**: Raghavarshini K  
 **GitHub**: [@Ragha822](https://github.com/Ragha822)  
 **Project Link**: [https://github.com/Ragha822/shiksha-mitra](https://github.com/Ragha822/shiksha-mitra)
 
